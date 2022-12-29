@@ -33,11 +33,10 @@ export default function handler(req: NextRequest) {
         >
           <div
             style={{
-              fontSize: 60,
+              fontSize: 70,
               fontStyle: "normal",
               letterSpacing: "-0.025em",
               color: "white",
-              marginTop: 30,
               padding: "0 120px",
               lineHeight: 1.4,
               whiteSpace: "pre-wrap",
@@ -50,7 +49,7 @@ export default function handler(req: NextRequest) {
               fontSize: 30,
               fontStyle: "normal",
               letterSpacing: "-0.025em",
-              color: "white",
+              color: "gray",
               marginTop: 30,
               padding: "0 120px",
               lineHeight: 1.4,
